@@ -1,4 +1,5 @@
 streamlit
 tiktoken
 langchain
+openai
 python-dotenv
